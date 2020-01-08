@@ -1,1 +1,1 @@
-first_variable = "Hello World!"
+first_number = "Hello World!"
